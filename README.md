@@ -134,11 +134,6 @@
 不加上被排除的点，得到结果：
 ![result](img/result2.jpg)
 
-## 源代码
-
-源代码只是一个实验性的代码，没有什么太多的参考价值，下面是源代码托管的平台
-
-**码云：**[图书计数](http://git.oschina.net/easyGroup/booksCount)
 
 
 ```python
